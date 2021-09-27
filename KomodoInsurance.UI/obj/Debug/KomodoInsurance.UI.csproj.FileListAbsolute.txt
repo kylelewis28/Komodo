@@ -1,0 +1,2 @@
+C:\Users\Kedco\source\repos\Komodo\KomodoInsurance\KomodoInsurance.UI\obj\Debug\KomodoInsurance.UI.csprojAssemblyReference.cache
+C:\Users\Kedco\source\repos\Komodo\KomodoInsurance\KomodoInsurance.UI\obj\Debug\KomodoInsurance.UI.csproj.CoreCompileInputs.cache
